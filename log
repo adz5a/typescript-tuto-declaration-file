@@ -10,4 +10,10 @@ Directory '/home/yolo/projects/tuto-declaration/src/module' does not exist, skip
 Loading module as file / folder, candidate module location '/home/yolo/projects/tuto-declaration/src/module', target file type 'JavaScript'.
 File '/home/yolo/projects/tuto-declaration/src/module.js' exist - use it as a name resolution result.
 ======== Module name './module' was successfully resolved to '/home/yolo/projects/tuto-declaration/src/module.js'. ========
-Done in 1.27s.
+[96msrc/index.ts[0m:[93m1[0m:[93m22[0m - [91merror[0m[90m TS7016: [0mCould not find a declaration file for module './module'. '/home/yolo/projects/tuto-declaration/src/module.js' implicitly has an 'any' type.
+
+[30;47m1[0m import * as mod from "./module";
+[30;47m [0m [91m                     ~~~~~~~~~~[0m
+
+
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
