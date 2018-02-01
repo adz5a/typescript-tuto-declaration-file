@@ -1,0 +1,9 @@
+{
+    "name": "tuto-declaration",
+    "dependencies": {
+        "typescript": "^2.7.1"
+    },
+    "scripts": {
+        "compile": "tsc"
+    }
+}

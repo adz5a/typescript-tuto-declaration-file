@@ -1,0 +1,13 @@
+yarn run v1.3.2
+$ tsc --traceResolution
+======== Resolving module './module' from '/home/yolo/projects/tuto-declaration/src/index.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module as file / folder, candidate module location '/home/yolo/projects/tuto-declaration/src/module', target file type 'TypeScript'.
+File '/home/yolo/projects/tuto-declaration/src/module.ts' does not exist.
+File '/home/yolo/projects/tuto-declaration/src/module.tsx' does not exist.
+File '/home/yolo/projects/tuto-declaration/src/module.d.ts' does not exist.
+Directory '/home/yolo/projects/tuto-declaration/src/module' does not exist, skipping all lookups in it.
+Loading module as file / folder, candidate module location '/home/yolo/projects/tuto-declaration/src/module', target file type 'JavaScript'.
+File '/home/yolo/projects/tuto-declaration/src/module.js' exist - use it as a name resolution result.
+======== Module name './module' was successfully resolved to '/home/yolo/projects/tuto-declaration/src/module.js'. ========
+Done in 1.27s.
