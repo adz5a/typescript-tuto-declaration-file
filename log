@@ -7,10 +7,4 @@ File '/home/yolo/projects/tuto-declaration/src/module.ts' does not exist.
 File '/home/yolo/projects/tuto-declaration/src/module.tsx' does not exist.
 File '/home/yolo/projects/tuto-declaration/src/module.d.ts' exist - use it as a name resolution result.
 ======== Module name './module' was successfully resolved to '/home/yolo/projects/tuto-declaration/src/module.d.ts'. ========
-[96msrc/index.ts[0m:[93m1[0m:[93m22[0m - [91merror[0m[90m TS2306: [0mFile '/home/yolo/projects/tuto-declaration/src/module.d.ts' is not a module.
-
-[30;47m1[0m import * as mod from "./module";
-[30;47m [0m [91m                     ~~~~~~~~~~[0m
-
-
-info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+Done in 1.34s.
